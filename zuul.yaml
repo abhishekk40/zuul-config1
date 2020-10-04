@@ -2,7 +2,7 @@
     name: check
     description: |
       Newly uploaded patchsets enter this pipeline to receive an
-      initial check status.1
+      initial check status.
     manager: independent
     trigger:
       github:
